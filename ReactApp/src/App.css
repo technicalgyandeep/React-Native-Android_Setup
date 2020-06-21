@@ -1,0 +1,11 @@
+h1
+{
+  text-align: center;
+}
+
+body
+{
+  background: #f8f8f8;
+  min-height: 100vh;
+  min-width: 100%;
+}
